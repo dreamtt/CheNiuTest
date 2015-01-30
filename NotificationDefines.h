@@ -10,3 +10,5 @@
 #define RECEIVED_MESSAGE @"ReceivedMessage"
 
 hello world!
+
+git command test
